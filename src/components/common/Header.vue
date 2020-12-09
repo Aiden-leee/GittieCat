@@ -13,7 +13,6 @@ header {
 	position: sticky;
 	background: #000;
 	padding: 20px 10px;
-
 	nav {
 		text-align: center;
 		color: #fff;
